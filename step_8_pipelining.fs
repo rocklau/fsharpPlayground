@@ -1,3 +1,4 @@
+// C# version https://github.com/microsoft/semantic-kernel/blob/main/dotnet/samples/GettingStarted/Step8_Pipelining.cs
 // Import necessary modules
 open IcedTasks
 open Microsoft.SemanticKernel
