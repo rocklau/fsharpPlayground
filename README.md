@@ -1,6 +1,6 @@
 
 # F# Playground
-This compares an F# playground with popular C# code.🔥🔥🔥
+This compares the F# playground with popular C# code.🔥🔥🔥
 ## F# Playground for Semantic Kernel
 
 This repository contains F# implementations of the Semantic Kernel Getting Started samples, originally provided in C#.
