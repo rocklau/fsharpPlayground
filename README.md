@@ -1,6 +1,6 @@
 # fsharpPlayground
 
-## F# version SK GettingStarted
+This repo is F# version SK GettingStarted
 
 
 ---
